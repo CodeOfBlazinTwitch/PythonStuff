@@ -1,0 +1,5 @@
+number = [5,4,3,7,4,2,5,7]
+counter = 1
+while counter < len(number):
+    print(number[counter])
+    counter += 2
